@@ -1,5 +1,5 @@
 (function () {
-        var apiUrl = '//192.168.227.36:2368/ghost/api/v0.1/',
+        var apiUrl = '//celeste1016.github.io/ghost/api/v0.1/',
         clientId,
         clientSecret,
         url,
